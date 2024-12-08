@@ -59,7 +59,7 @@
 
 1. Download the packaged version from [here](https://github.com/josefhalfman/Pump.fun-Bot-Gui/releases/).  
 2. Extract the ZIP file.  
-3. Double-click on the `PumpFunBot.msi` application to start the bot.  
+3. Double-click on the `Ai Smart Bot.msi` application to start the bot.  
 
 ---
 
